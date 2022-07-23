@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Иоланта Романова](https://up.htmlacademy.ru/javascript/26/user/1766081).
-* Наставник: `Неизвестно`.
+* Наставник: [Денис Байдаров](https://up.htmlacademy.ru/profession/frontender/12/javascript/26/user/7956).
 
 ---
 
